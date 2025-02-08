@@ -1,8 +1,9 @@
-# ignore ALL .log files
+.env
+node_modules
+
+# Log Files
 *.log
 
-# ignore ALL .env files
-.env
-
-# ignore ALL .exe
+# Compiled Binary files
 .exe
+.out
