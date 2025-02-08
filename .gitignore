@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL .env files
+.env
+
+# ignore ALL .exe
+.exe
